@@ -1,0 +1,16 @@
+linux commands:
+
+mkdir  #to create directory
+touch  # to crate empty file
+vi     # to add data
+cd     # change directory
+
+git commands : 
+git init  # folder to repository
+git add . # to move from index area(working directory)to staging area
+git commit -m "message"  # to move from staging area to local repository
+git status   # to check status
+git push origin branchname # to push code to server(github) from local repository
+git pull origin branchname # to pull code to local repository from server(github)
+git remote add origin url  # to set connection b/w local and server(github)
+git clone url   # to download repository to local from server 
