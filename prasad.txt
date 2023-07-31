@@ -14,3 +14,4 @@ git push origin branchname # to push code to server(github) from local repositor
 git pull origin branchname # to pull code to local repository from server(github)
 git remote add origin url  # to set connection b/w local and server(github)
 git clone url   # to download repository to local from server 
+GHGHGHHGHGH
